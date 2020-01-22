@@ -1,6 +1,6 @@
 {% set name = "cpppath" %}
-{% set version = "0.1.1" %}
-{% set sha256 = "1e764469f62087b1ffa56e87b7e8bab4cf3b09898dd8c011a5f0818498ae3f23" %}
+{% set version = "0.2.0" %}
+{% set sha256 = "c1c16c114c882a728485ed311c06a19c37054e7af1f4457a9a6822f9c5e9f4b7" %}
 
 package:
   name: {{ name|lower }}
