@@ -1,6 +1,6 @@
 {% set name = "cpppath" %}
-{% set version = "0.2.1" %}
-{% set sha256 = "0629e173dc11d9fca4582fec087ccc52029a00d898573d0720bdfcf2520a6ae4" %}
+{% set version = "0.2.2" %}
+{% set sha256 = "8aaa250b8c5205dd15d1bb460553ed97af51988ab8be8e02472b0b4db680ecbd" %}
 
 package:
   name: {{ name|lower }}
@@ -31,8 +31,8 @@ about:
   license: MIT
   license_family: MIT
   license_file: LICENSE
-  summary: 'Simple, header only, file-path module for C++ similar to `os` in Python.'
-  description: 'Simple, header only, file-path module for C++ similar to `os` in Python.'
+  summary: Simple, header only, file-path module for C++ similar to `os` in Python.
+  description: Simple, header only, file-path module for C++ similar to `os` in Python.
   doc_url: https://github.com/tdegeus/cpppath
   dev_url: https://github.com/tdegeus/cpppath
 
